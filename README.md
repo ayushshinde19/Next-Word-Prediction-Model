@@ -9,3 +9,5 @@ select an appropriate model like an LSTM or GPT,
 train the model on the dataset while adjusting hyperparameters,
 improve the model by experimenting with different techniques and architectures.
 
+text file: https://github.com/ayushshinde19/Next-Word-Prediction-Model/blob/main/sherlock-holm.es_stories_plain-text_advs.txt
+
